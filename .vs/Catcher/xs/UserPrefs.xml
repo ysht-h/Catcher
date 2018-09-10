@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E37B91C3-6A5B-318F-36E8-3C0767956CC5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/itemGen.cs">
+    <Files>
+      <File FileName="Assets/basketController.cs" Line="10" Column="29" />
+      <File FileName="Assets/itemController.cs" Line="7" Column="5" />
+      <File FileName="Assets/itemGen.cs" Line="27" Column="50" />
+      <File FileName="Assets/gameMgr.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
